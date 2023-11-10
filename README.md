@@ -69,7 +69,7 @@ module/
         * :ref:`modindex`
         * :ref:`search`
 
-4. ``sphinx-apidoc -o docs/source <module>``
+4. ``sphinx-apidoc -o docs/source .`` --> . คือ current directory
 
 5. ``sphinx-build -M html docs/source docs/build``
 
