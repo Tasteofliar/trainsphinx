@@ -20,10 +20,10 @@ src.foo module
    :undoc-members:
    :show-inheritance:
 
-Module contents
+src.foofoo module
 ---------------
 
-.. automodule:: src
+.. automodule:: src.foofoo
    :members:
    :undoc-members:
    :show-inheritance:
